@@ -19,6 +19,16 @@ python3 manage.py runserver
 ### Create super user to access already available DjangoAdmin UI
 * ```python3 manage.py createsuperuser```
 
+#### Project screenshots
+* REST API displaying all Movie data
+![Screenshot 2023-02-03 at 10 56 58 PM](https://user-images.githubusercontent.com/26230702/216668093-2f7d1ee3-b730-436e-b605-cf7bff4edf45.png)
+
+* Admin panel
+
+![Screenshot 2023-02-03 at 10 57 55 PM](https://user-images.githubusercontent.com/26230702/216668233-17acbeb5-905b-4085-aba3-9e5a03ca2107.png)
+
+
+
 ## Pushing to Git
 #### push an existing repository from the command line
 * echo "#DjangoRestAPI" >> README.md
